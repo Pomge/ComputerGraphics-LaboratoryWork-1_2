@@ -1,0 +1,7 @@
+﻿  Render.cpp
+C:\Users\aleks\Desktop\Laba2 New\OpenGLrememberProj\Render.cpp(588,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\aleks\Desktop\Laba2 New\OpenGLrememberProj\Render.cpp(651,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\aleks\Desktop\Laba2 New\OpenGLrememberProj\Render.cpp(806,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\aleks\Desktop\Laba2 New\OpenGLrememberProj\Render.cpp(806,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\aleks\Desktop\Laba2 New\OpenGLrememberProj\Render.cpp(806,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\aleks\Desktop\Laba2 New\Debug\OpenGLrememberProj.exe
