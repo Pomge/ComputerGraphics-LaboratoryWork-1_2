@@ -14,5 +14,5 @@
 В лабораторной работе есть возможность смены цветов частей фигуры
 ![Image alt](https://github.com/QueTuePlay/ComputerGraphics-LaboratoryWork-1_2/raw/main/ScreenShots/screen4.png)
 
-В лабораторной работе есть смены текстур
+В лабораторной работе есть возможность смены текстур
 ![Image alt](https://github.com/QueTuePlay/ComputerGraphics-LaboratoryWork-1_2/raw/main/ScreenShots/screen5.png)
